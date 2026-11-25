@@ -159,7 +159,7 @@ A evolução da personagem acontece por meio de conquistas reais. Cada aprendiza
   <img src="https://img.shields.io/badge/GitHub-24143F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO/">
+<a href="https://www.linkedin.com/in/emilly-garcia-06714a307/">
   <img src="https://img.shields.io/badge/LinkedIn-247EAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
