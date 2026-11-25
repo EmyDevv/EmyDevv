@@ -1,187 +1,172 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:0e7490&height=180&section=header&text=EMYDEVV&fontSize=65&fontColor=f5e6c8&animation=fadeIn&fontAlignY=40&desc=FICHA%20DE%20AVENTUREIRA%20%7C%20EDI%C3%87%C3%83O%20DO%20DESENVOLVEDOR&descSize=13&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24143F,45:493078,75:247EAD,100:D6B66F&height=190&section=header&text=EmyDevv&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Maga%20do%20Conhecimento&descSize=18&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=C4B5FD&center=true&vCenter=true&width=550&lines=Uma+nova+aventura+come%C3%A7a...;Carregando+grim%C3%B3rio+de+c%C3%B3digos...;Rolando+iniciativa+para+aprender!;Que+os+dados+sejam+favor%C3%A1veis!+%F0%9F%8E%B2" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=17&duration=3500&pause=1000&color=D6B66F&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+grim%C3%B3rio!;Conhecimento+%C3%A9+minha+maior+magia.;Uma+nova+miss%C3%A3o+a+cada+linha+de+c%C3%B3digo." alt="Mensagens mágicas" />
 
-<br/>
+<br>
 
-![GitHub](https://img.shields.io/badge/Guilda-GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)
-![Classe](https://img.shields.io/badge/Classe-Desenvolvedora-0e7490?style=for-the-badge)
-![Nível](https://img.shields.io/badge/Nível-Em%20evolução-b45309?style=for-the-badge)
+**🎲 D20 Arcano — O conhecimento é o maior dos poderes.**
+
+*Transformando curiosidade em conhecimento e ideias em código.*
 
 </div>
 
 ---
 
-# 📜 FICHA DA PERSONAGEM
+## 📜 I. Ficha da aventureira
 
-> *"Toda grande aventura começa com uma escolha. A minha começou com uma linha de código."*
-
-| Característica | Descrição |
+| Característica | Registro |
 |:---|:---|
-| **Nome** | EmyDevv |
-| **Classe** | Desenvolvedora Full Stack em formação |
-| **Raça** | Humana |
-| **Antecedente** | Estudante de Análise e Desenvolvimento de Sistemas |
-| **Alinhamento** | Curiosa, criativa e dedicada |
-| **Guilda** | Comunidade de tecnologia |
-| **Missão principal** | Tornar-me uma desenvolvedora cada vez melhor |
+| 🧙 **Personagem** | EmyDevv |
+| 🔮 **Classe** | Maga |
+| ✨ **Especialização** | Maga do Conhecimento |
+| 🎓 **Guilda acadêmica** | Análise e Desenvolvimento de Sistemas |
+| 🏰 **Instituição** | Faculdade Anhanguera |
+| 📅 **Jornada acadêmica** | 02/2026 — 07/2028 (previsão) |
+| 🎯 **Missão principal** | Transformar ideias em soluções através da programação |
 
-Olá, aventureiro(a)! Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha jornada no universo da programação.
+### 🪄 Sobre a aventureira
 
-Gosto de explorar novas tecnologias, resolver problemas e transformar ideias em projetos reais. Tenho especial interesse em **Back-end, Front-end e Desenvolvimento Web**.
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, explorando o universo da programação e construindo minha jornada na tecnologia.
 
-Fora do mundo da programação, também sou apaixonada por RPG de mesa, animes, jogos e universos de fantasia.
+Tenho interesse em desenvolvimento web, especialmente nas áreas de **Back-end e Front-end**. Sou curiosa, dedicada e gosto de aprender coisas novas, experimentar possibilidades e transformar conhecimentos em projetos práticos.
+
+Meu objetivo é continuar evoluindo, desenvolver soluções úteis e construir um portfólio que represente minha trajetória.
 
 ---
 
-# ⚔️ ATRIBUTOS DA AVENTUREIRA
+## ✨ II. Escolas de magia — Tecnologias
 
-*As características que fazem parte da minha jornada.*
-
-| Atributo | Aplicação na aventura |
-|:---|:---|
-| 🧠 Inteligência (INT) | Lógica de programação e resolução de problemas |
-| 🔍 Sabedoria (SAB) | Curiosidade e aprendizado contínuo |
-| 🎨 Carisma (CAR) | Criatividade e comunicação |
-| ⚙️ Destreza (DES) | Prática e construção de projetos |
-| 🛡️ Constituição (CON) | Persistência diante dos desafios |
-| 💪 Força (FOR) | Determinação para continuar evoluindo |
-
-<sub>Os atributos são uma brincadeira inspirada em RPGs, não avaliações ou pontuações reais.</sub>
-
----
-
-# ✨ PERÍCIAS E PROFICIÊNCIAS
-
-*Habilidades adquiridas durante minhas aventuras.*
-
-### 📚 Perícias em programação
+Cada linguagem é uma escola de magia. Cada ferramenta, um novo conhecimento a ser dominado.
 
 <div align="center">
 
-| Tecnologia | Proficiência |
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github&theme=dark" alt="Tecnologias" />
+
+</div>
+
+| Escola de magia | Conhecimento |
+|:---|:---|
+| 📜 **HTML** | Estrutura e organização de páginas |
+| 🎨 **CSS** | Estilização e identidade visual |
+| ⚡ **JavaScript** | Lógica e interatividade |
+| 🧪 **Python** | Exploração da programação |
+| 🔮 **Git** | Controle de versões |
+| 🏰 **GitHub** | Compartilhamento e colaboração |
+
+---
+
+## 🎒 III. Inventário alquímico
+
+Toda maga precisa de ferramentas para suas experiências. Estes são os artefatos que me acompanham durante a jornada.
+
+| Artefato | Ferramenta | Propriedade mágica |
+|:---|:---|:---|
+| 📖 Grimório Arcano | Visual Studio Code | Onde os encantamentos são escritos |
+| 🔮 Cristal da Memória | Git | Registra alterações e versões |
+| 🏰 Portal das Guildas | GitHub | Armazena e compartilha projetos |
+| 📜 Pergaminho Estrutural | HTML | Dá forma às páginas |
+| 🎨 Tinta Encantada | CSS | Transforma a aparência |
+| ⚡ Essência Elemental | JavaScript | Dá vida às interfaces |
+| 🧪 Pedra Filosofal | Python | Abre caminhos para novas soluções |
+
+---
+
+## 📚 IV. Grimório de projetos
+
+Conhecimento sem prática é apenas teoria. Aqui registro minhas experiências e projetos de desenvolvimento.
+
+### 🧪 Sistema de gerenciamento da Pixelaria
+
+<sub>MISSÃO EM ANDAMENTO · PROJETO DE PORTFÓLIO</sub>
+
+Sistema desenvolvido para auxiliar na organização da minha loja artesanal, a Pixelaria.
+
+**Funcionalidades do projeto:**
+
+- Cadastro e gerenciamento de pedidos.
+- Acompanhamento dos status dos pedidos.
+- Organização de informações de clientes e produtos.
+- Registro de valores e acompanhamento financeiro.
+
+**Tecnologias:** `HTML` `CSS` `JavaScript`
+
+*Objetivo: aplicar conhecimentos de programação na construção de uma solução para uma necessidade real.*
+
+---
+
+## ⚔️ V. Livro de missões
+
+Cada desafio concluído representa uma nova experiência. Estas são algumas das missões que fazem parte da minha jornada.
+
+**Missões em andamento e objetivos:**
+
+- [ ] Aprofundar conhecimentos em JavaScript.
+- [ ] Expandir conhecimentos em Python.
+- [ ] Desenvolver novos projetos para o portfólio.
+- [ ] Aprimorar habilidades em Back-end.
+- [ ] Explorar novas ferramentas e tecnologias.
+- [ ] Concluir a graduação em Análise e Desenvolvimento de Sistemas.
+
+---
+
+## 🌟 VI. Sistema de evolução — Experiência (XP)
+
+A evolução da personagem acontece por meio de conquistas reais. Cada aprendizado, desafio e projeto representa experiência acumulada.
+
+| Conquista | XP simbólico |
 |:---|:---:|
-| HTML5 | ![HTML](https://img.shields.io/badge/Conhecendo-E34F26?style=flat-square) |
-| CSS3 | ![CSS](https://img.shields.io/badge/Conhecendo-1572B6?style=flat-square) |
-| JavaScript | ![JS](https://img.shields.io/badge/Estudando-F7DF1E?style=flat-square&logoColor=black) |
-| Python | ![Python](https://img.shields.io/badge/Estudando-3776AB?style=flat-square) |
-| Git | ![Git](https://img.shields.io/badge/Utilizando-F05032?style=flat-square) |
-| GitHub | ![GitHub](https://img.shields.io/badge/Utilizando-181717?style=flat-square) |
+| Aprender uma nova tecnologia | +XP |
+| Resolver um desafio de programação | +XP |
+| Desenvolver uma funcionalidade | +XP |
+| Concluir um projeto | +XP |
+| Publicar um projeto no GitHub | +XP |
 
-</div>
+### 🏅 Progressão de classe
 
-### 🔮 Equipamentos mágicos
+| Nível | Título | Marco de evolução |
+|:---:|:---|:---|
+| 1 | Aprendiz | Fundamentos da programação |
+| 2 | Estudiosa | Ampliação dos conhecimentos |
+| 3 | Praticante | Desenvolvimento de projetos próprios |
+| 4 | Especialista | Construção de soluções mais complexas |
+| 5 | Arquimaga | Experiência consolidada e autonomia técnica |
+
+*Os níveis são uma representação lúdica do aprendizado, não certificações ou títulos profissionais. A progressão será atualizada conforme minhas conquistas reais.*
+
+---
+
+## 📊 VII. Registro da guilda
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EmyDevv&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmyDevv&layout=compact&theme=midnight-purple&hide_border=true" alt="Linguagens mais utilizadas" />
 
-<details>
-<summary>📖 <b>Novas habilidades em treinamento</b></summary>
-
-- Aprimoramento de JavaScript.
-- Desenvolvimento Back-end.
-- Lógica de programação.
-- Desenvolvimento de aplicações Web.
-- Construção de projetos e utilização de Git.
-
-</details>
-
----
-
-# 📕 GRIMÓRIO — LIVRO DE FEITIÇOS
-
-*Cada projeto é um novo feitiço aprendido.*
-
-### 🧪 Sistema de Gerenciamento da Pixelaria
-
-![Projeto](https://img.shields.io/badge/Projeto-Pessoal-7c3aed?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-d97706?style=flat-square)
-
-Um sistema criado para gerenciar os pedidos e a organização financeira da minha loja artesanal, Pixelaria.
-
-**Feitiços disponíveis:**
-
-- 📦 Cadastro e gerenciamento de pedidos.
-- 📋 Controle de status: fazendo, pronto e entregue.
-- 💰 Organização de valores e faturamento.
-- 🧾 Gerenciamento de informações dos pedidos.
-
-**Componentes utilizados:**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-*Uma missão especial: transformar um problema do mundo real em uma aplicação funcional.*
-
----
-
-# 🗺️ DIÁRIO DE MISSÕES
-
-*As jornadas que ainda estão acontecendo.*
-
-- [x] Iniciar minha jornada em Análise e Desenvolvimento de Sistemas.
-- [x] Aprender os fundamentos de HTML e CSS.
-- [x] Conhecer Git e GitHub.
-- [x] Começar a desenvolver projetos próprios.
-- [ ] Aprimorar meus conhecimentos em JavaScript.
-- [ ] Aprofundar meus estudos em Back-end.
-- [ ] Explorar bancos de dados.
-- [ ] Desenvolver aplicações Full Stack completas.
-
-<sub>A campanha continua... novas missões serão adicionadas!</sub>
-
----
-
-# 🏆 REGISTRO DE EXPERIÊNCIA
-
-*Minha evolução na guilda GitHub.*
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EmyDevv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=60a5fa&text_color=e5e7eb"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmyDevv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb"/>
-
-<br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmyDevv&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=60a5fa&currStreakLabel=c4b5fd"/>
+<img src="https://streak-stats.demolab.com?user=EmyDevv&theme=midnight-purple&hide_border=true" alt="Sequência de contribuições" />
 
 </div>
 
 ---
 
-# 🧭 ENCONTRE A AVENTUREIRA
-
-*Toda guilda precisa de novos companheiros de jornada!*
+## 🏰 VIII. Encontre a aventureira
 
 <div align="center">
 
 <a href="https://github.com/EmyDevv">
-<img src="https://img.shields.io/badge/GitHub-Visite%20minha%20guilda-4c1d95?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-24143F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://www.linkedin.com/in/emilly-garcia-06714a307/">
-<img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/SEU-USUARIO/">
+  <img src="https://img.shields.io/badge/LinkedIn-247EAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-</div>
+<br><br>
 
----
+*O grimório permanece aberto. Sempre existe uma nova magia para aprender.*
 
-<div align="center">
-
-### 🎲 FIM DA FICHA... MAS NÃO DA AVENTURA!
-
-*"A experiência é conquistada a cada desafio enfrentado."*
-
-`while (viva) { aprender(); criar(); evoluir(); }`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:4c1d95,100:1e1b4b&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24143F,50:493078,100:247EAD&height=110&section=footer" width="100%" />
 
 </div>
